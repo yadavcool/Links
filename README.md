@@ -9,6 +9,6 @@ https://yadavcool.github.io/Quiz-JavaScript/              (Quiz Trailer // JavaS
 
 https://yadavcool.github.io/SimonAMemoryGame/              (Simon- A Memory Game // JQuery Project)
 
-https://yadavcool.github.io/javaScriptProjects/             (Expandable Cards. // JavaScript Prject)
+https://yadavcool.github.io/ExpendableCards/             (Expandable Cards. // JavaScript Prject)
 
 https://yadavcool.github.io/Progress-Steps/                   (Progress Steps // HTML || CSS || JAVASCRIPT)
