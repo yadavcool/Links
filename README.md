@@ -12,3 +12,5 @@ https://yadavcool.github.io/SimonAMemoryGame/              (Simon- A Memory Game
 https://yadavcool.github.io/ExpendableCards/             (Expandable Cards. // JavaScript Prject)
 
 https://yadavcool.github.io/Progress-Steps/                   (Progress Steps // HTML || CSS || JAVASCRIPT)
+
+https://yadavcool.github.io/RandomColors/                  (Random Colors // HTML || CSS || JAVASCRIPTS)
